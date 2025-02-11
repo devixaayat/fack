@@ -24,7 +24,7 @@ def display_interface():
 ═══════════════════════════════════════════════════════
 {YELLOW}            [ D3V1 COMMAND ]                
 ═══════════════════════════════════════════════════════
-{BOLD}{GREEN}OWNER : DEVI {REST}
+{BOLD}{GREEN}OWNER : DEVI {RESET}
 {BOLD}{GREEN}ADMINS : D3V1
 {BOLD}{GREEN}MEMBERS : G9M3R RULEX {RESET}
 ═════════════════════════════════════════════════════ ## ##    ## ##   ## ##              ## ##     ##     ###  ##   ## ##   
