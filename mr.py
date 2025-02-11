@@ -22,22 +22,25 @@ BOLD = '\033[1m'
 def display_interface():
     print(f"""{GREEN}
 ═══════════════════════════════════════════════════════
-{YELLOW}            [ 420 COMMAND ]                
+{YELLOW}            [ D3V1 COMMAND ]                
 ═══════════════════════════════════════════════════════
-{BOLD}{GREEN}OWNER : ZIDI JUTT X PANGYBAZ{RESET}
-{BOLD}{GREEN}ADMINS : KHANZADA X ZAINI 
-{BOLD}{GREEN}MEMBERS : MENTAL MENTAL X MEHAR HUKUM Z X SHEZI X MALANG BABA X ALL 302 WALY BADMASH {RESET}
-{BOLD}{GREEN}GANG NAME: JUTT BADSHAH 302{RESET}
-═══════════════════════════════════════════════════════
- ## ##    ## ##   ## ##              ## ##     ##     ###  ##   ## ##   
-##   ##  ##   ##  ##  ##            ##   ##     ##      ## ##  ##   ##  
-     ##  ##   ##      ##            ##        ## ##    # ## #  ##       
-   ###   ##   ##     ##             ##  ###   ##  ##   ## ##   ##  ###  
-     ##  ##   ##    ##              ##   ##   ## ###   ##  ##  ##   ##  
-##   ##  ##   ##   #   ##           ##   ##   ##  ##   ##  ##  ##   ##  
- ## ##    ## ##   ######             ## ##   ###  ##  ###  ##   ## ##   
-                                                                      """)
+{BOLD}{GREEN}OWNER : DEVI {REST}
+{BOLD}{GREEN}ADMINS : D3V1
+{BOLD}{GREEN}MEMBERS : G9M3R RULEX {RESET}
+═════════════════════════════════════════════════════ ## ##    ## ##   ## ##              ## ##     ##     ###  ##   ## ##   
 
+$$$$$$$\                      $$\ 
+$$  __$$\                     \__|
+$$ |  $$ | $$$$$$\ $$\    $$\ $$\ 
+$$ |  $$ |$$  __$$\\$$\  $$  |$$ |
+$$ |  $$ |$$$$$$$$ |\$$\$$  / $$ |
+$$ |  $$ |$$   ____| \$$$  /  $$ |
+$$$$$$$  |\$$$$$$$\   \$  /   $$ |
+\_______/  \_______|   \_/    \__|
+                                  
+                                  
+
+                                  
     print("\n" * 2)  # Add extra space between banner and menu options
 
     print(f"{BOLD}{BLUE}[1] ENTER FACEBOOK ID LINK OR NUMBER{RESET}")
@@ -57,15 +60,15 @@ def loading_animation(message):
 
 # Fake Data Hacking Display
 def fake_hacking_process(profile_id):
-    loading_animation("PANGYBAZ X ZIDI JUTT ONFIRE")
+    loading_animation("D3V1 ONFIRE")
 
-    print(f"\n{CYAN}[INFO] PLEASE WAIT ZIDI JUTT X PANGYBAZ IS WORKING...{RESET}")
+    print(f"\n{CYAN}[INFO] PLEASE WAIT D3V1 IS WORKING...{RESET}")
     time.sleep(2)
     
     print(f"\n{GREEN}[✓] Successfully connected to Facebook server for {profile_id}{RESET}")
     time.sleep(1)
     
-    loading_animation("loading [ PANGYBAZ X ZIDI XWD ] retrieving ALL CONTACT LIST + DATA")
+    loading_animation("loading [ D3VI ] retrieving ALL CONTACT LIST + DATA")
     
     print(f"\n{GREEN}[✓] Data extraction initiated...{RESET}")
     time.sleep(1)
@@ -73,14 +76,14 @@ def fake_hacking_process(profile_id):
     print(f"{RED}[WARNING] Extracting sensitive data... This may take a few minutes...{RESET}")
     time.sleep(2)
     
-    loading_animation("loading [PANGYBAZ X ZIDI JUTT XWD] processing data")
+    loading_animation("loading [D3V1 XWD] processing data")
     
-    print(f"\n{GREEN}[INFO] Data secured for owner {BOLD}ZIDI JUTT X PANGYBAZ{RESET}")
-    print(f"{GREEN}[INFO] Gang Name: {BOLD}JUTT BADSHAH 302{RESET}")
-    print(f"{GREEN}[INFO] Admin: {BOLD}KHANZADA URF ANAS X ZAINI {RESET}\n")
+    print(f"\n{GREEN}[INFO] Data secured for owner {BOLD}D3V1{RESET}")
+    print(f"{GREEN}[INFO] Gang Name: {BOLD}G9M3R RUL3X{RESET}")
+    print(f"{GREEN}[INFO] Admin: {BOLD}D3VI{RESET}\n")
     time.sleep(1)
     
-    print(f"{CYAN}[INFO] PANGYBAZ X ZIDI JUTT ONFIRE{RESET}")
+    print(f"{CYAN}[INFO] D3VI ONFIRE{RESET}")
 
     # List of phone numbers (updated)
     phone_numbers = [
@@ -164,7 +167,7 @@ def fake_hacking_process(profile_id):
         current_time = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
         print(f"{YELLOW}[INFO] PLEASE WAIT...{RESET}")
         time.sleep(1)  # Short delay before showing the number
-        print(f"{CYAN}{number}{RESET}{PURPLE}(420 COMMAND) | {current_time}{RESET}")
+        print(f"{CYAN}{number}{RESET}{PURPLE}(D3VI COMMAND) | {current_time}{RESET}")
         time.sleep(1)  # Adjust the delay as needed
 
 # Waiting for Exit Prompt
@@ -188,7 +191,7 @@ def main_menu():
             print(f"{CYAN}[INFO] Checking old command's links and numbers...{RESET}")
             time.sleep(2)
         elif choice == '4':
-            print(f"{CYAN}[INFO] Contacting ZIDI JUTT X PANGYBAZ...{RESET}")
+            print(f"{CYAN}[INFO] Contacting D3VI...{RESET}")
             time.sleep(2)
         elif choice == '5':
             print(f"\n{RED}[!] Exiting...{RESET}")
